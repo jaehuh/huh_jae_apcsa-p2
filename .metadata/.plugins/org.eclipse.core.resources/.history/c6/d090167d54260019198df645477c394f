@@ -19,7 +19,7 @@ public class AsciiArt
 		System.out.println("              /    \\              " );
 		System.out.println("             [------]             " );
 		//add other output
-		my name is
+		my name
 
 		System.out.println(" \n\n\n\nHelpFul Hints" );
 		System.out.println("\\\\ draws one backslash on the screen!\n" );
